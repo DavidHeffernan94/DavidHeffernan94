@@ -1,74 +1,44 @@
-Hi, I'm David Heffernan 👋
+# Hi, I'm David Heffernan 👋
 
 Data Analytics for Business graduate (Level 7 & 8, CCT College Dublin) with a focus on machine learning, financial data analysis and turning complex datasets into actionable insights.
 
+## 🎓 Education
 
-🎓 Education
+**Higher Diploma in Science in Data Analytics for Business** — NFQ Level 8, First-Class Honours | CCT College Dublin  
+**Diploma in Data Analytics for Business** — NFQ Level 7 | CCT College Dublin
 
-BSc Data Analytics for Business — Level 8 | CCT College Dublin
-Higher Certificate in Data Analytics for Business — Level 7 | CCT College Dublin
+## 🔧 Skills
 
+**Languages & Tools**  
+Python (pandas, NumPy, scikit-learn, XGBoost, TensorFlow, SHAP, statsmodels, matplotlib, seaborn) · SQL · Jupyter Notebook · Git & GitHub
 
-🔧 Skills
+**Machine Learning**  
+Classification models · Time-series analysis · Feature engineering · Hyperparameter tuning (GridSearchCV, RandomizedSearchCV) · Model interpretability (SHAP) · Neural networks (LSTM)
 
-Languages & Tools
+**Data & Analytics**  
+Exploratory data analysis · Statistical analysis · Stationarity testing · Data cleaning and preparation · Data visualisation · API data collection
 
+## 📌 Projects
 
-Python (pandas, NumPy, scikit-learn, XGBoost, SHAP, matplotlib, seaborn)
-SQL
-Jupyter Notebook
-Git & GitHub
+### 🔴 [RecessionPredictor](https://github.com/DavidHeffernan94/RecessionPredictor)
 
+Predicting US recession risk from macroeconomic and financial indicators using machine learning. End-to-end pipeline covering data collection, EDA, feature engineering, model comparison and interpretability.
 
-Machine Learning
+- **Data:** 16 indicators from the FRED and Yahoo Finance APIs, 1960 to present
+- **Models:** Logistic Regression, Random Forest, XGBoost, LSTM
+- **Key result:** tuned XGBoost reached a cross-validated AUC of 0.979 and identified every recession month in the test period
+- **Features:** live current recession risk reading, updated on each run
+- **Tools:** Python, scikit-learn, XGBoost, TensorFlow, SHAP, pandas, matplotlib
 
+## 📈 Currently Working On
 
-Classification & regression models
-Time-series analysis and forecasting
-Feature engineering
-Hyperparameter tuning (GridSearchCV, RandomizedSearchCV)
-Model interpretability (SHAP)
+- Analysing Irish residential property prices using the Property Price Register and SEAI BER data
+- A Streamlit dashboard front-end for RecessionPredictor
+- Open to data analyst and data science opportunities
 
+## 📫 Get In Touch
 
-Data & Analytics
+- 💼 [LinkedIn](https://www.linkedin.com/in/david-heffernan-871a85192/)
+- 📧 heffo945@hotmail.com
 
-
-Exploratory data analysis
-Statistical analysis and descriptive statistics
-Data cleaning and preparation
-Data visualisation
-
-
-
-📌 Projects
-
-🔴 RecessionPredictor
-
-Predicting US recession risk from macroeconomic and financial indicators using machine learning. Built an end-to-end pipeline covering data collection, EDA, feature engineering, model comparison and interpretability.
-
-
-Models: Logistic Regression, Random Forest, XGBoost
-Data: FRED & Yahoo Finance (1960 - present)
-Key result: XGBoost achieved AUC of 1.000 on the 1960 dataset
-Tools: Python, scikit-learn, XGBoost, SHAP, pandas, matplotlib
-
-
-
-📈 Currently Working On
-
-
-Expanding RecessionPredictor with yield curve data and LSTM neural networks
-Building out portfolio projects in financial data analysis and machine learning
-Open to data analyst and data science opportunities
-
-
-
-📫 Get In Touch
-
-
-💼 LinkedIn: https://www.linkedin.com/in/david-heffernan-871a85192/
-📧 heffo945@hotmail.com
-
-
-
-Open to data analyst, data science and business intelligence roles in Ireland and remotely.
+*Open to data analyst, data science and business intelligence roles in Ireland and remotely.*
