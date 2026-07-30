@@ -66,8 +66,8 @@ Open to data analyst and data science opportunities
 📫 Get In Touch
 
 
-💼 LinkedIn
-📧 your.email@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/david-heffernan-871a85192/
+📧 heffo945@hotmail.com
 
 
 
